@@ -1,0 +1,5 @@
+Ideas
+
+- Learn HTML
+- Learn CSS
+- Learn JavaScript
